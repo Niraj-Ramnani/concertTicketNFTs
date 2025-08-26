@@ -45,16 +45,16 @@ By leveraging blockchain technology, we're building a future where concert ticke
 Contract ID: ST2KVHT72JK2N1A93M75NMNACXNMP0GB6MTBAD2T0.concertTicketNFTs
 ![alt text](image.png)
 ### Mainnet Deployment
-- **Contract Address**: `[To be added after deployment]`
+
 - **Contract Name**: `concert-ticket-nft`
 - **Network**: Stacks Mainnet
-- **Deployment Date**: `[To be added]`
+
 
 ### Testnet Deployment
-- **Contract Address**: `[To be added after deployment]`
+
 - **Contract Name**: `concert-ticket-nft`
 - **Network**: Stacks Testnet
-- **Deployment Date**: `[To be added]`
+
 
 ### Key Contract Functions
 
