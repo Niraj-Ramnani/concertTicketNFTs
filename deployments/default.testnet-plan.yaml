@@ -1,0 +1,18 @@
+---
+id: 0
+name: Testnet deployment
+network: testnet
+stacks-node: "https://api.testnet.hiro.so"
+bitcoin-node: "http://blockstack:blockstacksystem@bitcoind.testnet.stacks.co:18332"
+plan:
+  batches:
+    - id: 0
+      transactions:
+        - contract-publish:
+            contract-name: concertTicketNFTs
+            expected-sender: ST2KVHT72JK2N1A93M75NMNACXNMP0GB6MTBAD2T0
+            cost: 47270
+            path: "contracts\\concertTicketNFTs.clar"
+            anchor-block-only: true
+            clarity-version: 3
+      epoch: "3.2"

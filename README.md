@@ -42,8 +42,8 @@ By leveraging blockchain technology, we're building a future where concert ticke
 
 ## Contract Address Details
 
-*Contract addresses will be updated once deployed to mainnet and testnet*
-
+Contract ID: ST2KVHT72JK2N1A93M75NMNACXNMP0GB6MTBAD2T0.concertTicketNFTs
+![alt text](image.png)
 ### Mainnet Deployment
 - **Contract Address**: `[To be added after deployment]`
 - **Contract Name**: `concert-ticket-nft`
@@ -81,4 +81,3 @@ By leveraging blockchain technology, we're building a future where concert ticke
 
 ---
 
-*For technical documentation, deployment guides, and API references, please refer to our developer documentation portal.*
